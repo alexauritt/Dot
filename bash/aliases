@@ -1,0 +1,16 @@
+alias rprac='cd /users/alexauritt/programming/RubyDev/RubyPractice'
+alias railsprac=' cd /users/alexauritt/programming/rubyrailsdev/practice'
+alias reading='cd /users/alexauritt/programming/rubyrailsdev/practice/reading/readingsite'
+alias gitprac='cd /users/alexauritt/programming/rubyrailsdev/gitpractice'
+alias shell='cd /users/alexauritt/programming/shellPrac'
+alias musicgame='cd /users/alexauritt/programming/FlashDev/gamejob/musicgame'
+alias productgame='cd /users/alexauritt/programming/FlashDev/gamejob/productgame'
+alias railzor='cd /users/alexauritt/programming/RubyRailsDev/Practice/railzor-begin'
+alias fart='cd /users/alexauritt/programming/RubyRailsDev/Practice/fartcharter'
+alias resume='cd /users/alexauritt/Documents/Resumes/active/tech'
+alias r4r='cd /users/alexauritt/programming/rubyrailsdev/practice/ruby4rails/r4music1'
+alias testprac='cd /users/alexauritt/programming/rubyrailsdev/practice/depot/depot_test_prac'
+alias tmate='open -a Textmate'
+alias flash='open -a Adobe\ Flash\ CS4'
+
+
