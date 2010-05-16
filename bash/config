@@ -1,1 +1,4 @@
 test -r /sw/bin/init.sh && . /sw/bin/init.sh
+
+#PS1="\n\u:\w \[$EBLACK\]\$(vcprompt)\[$NO_COLOR\] \n->"
+PS1="\n\u:\w \[$EBLACK\]\[$NO_COLOR\] \n->"
