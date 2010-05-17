@@ -1,4 +1,7 @@
 
+#git
+alias g='git status'
+
 # shell scripting
 alias shell='cd /users/alexauritt/programming/shellPrac'
 
