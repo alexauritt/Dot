@@ -5,6 +5,12 @@ alias g='git status'
 # shell scripting
 alias shell='cd /users/alexauritt/programming/shellPrac'
 
+# git shortcuts
+alias g="git status"
+
+# rails shortcuts
+alias ss="script/server"
+
 # ruby practice
 alias rprac='cd /users/alexauritt/programming/RubyDev/RubyPractice'
 
