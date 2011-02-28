@@ -1,32 +1,41 @@
 
-#git
-alias g='git status'
+# scripts
+alias gri="echo 'hello there'" 
 
 # shell scripting
 alias shell='cd /users/alexauritt/programming/shellPrac'
 
 # git shortcuts
-alias g="git status"
+alias g='git status'
+alias gd='git diff'
+alias gdc='git diff --cached'
+alias gb="git branch"
+alias gc="git commit"
+alias ga="git add"
+alias gld="git log --oneline --decorate --graph"
 
 # rails shortcuts
 alias ss="script/server"
 
 # ruby practice
-alias rprac='cd /users/alexauritt/programming/RubyDev/RubyPractice'
+alias rp='cd ~/programming/RubyDev/RubyPractice'
+
+# work projects
+alias gsaw='cd ~/work_projects/greensaw_rails'
 
 # rails projects, practice
-alias railsprac=' cd /users/alexauritt/programming/rubyrailsdev/practice'
-alias gitprac='cd /users/alexauritt/programming/rubyrailsdev/gitpractice'
-alias railzor='cd /users/alexauritt/programming/rubyrailsdev/practice/railzor-begin'
-alias r4r='cd /users/alexauritt/programming/rubyrailsdev/practice/ruby4rails/r4music1'
-alias testprac='cd /users/alexauritt/programming/rubyrailsdev/practice/depot/depot_test_prac'
+alias mhs='cd ~/programming/rubyrailsdev/mathhotspot'
+alias rrp='cd ~programming/rubyrailsdev/practice'
+alias gp='cd /users/alexauritt/programming/rubyrailsdev/gitpractice'
 alias fart='cd /users/alexauritt/programming/rubyrailsdev/practice/fartcharter'
 alias reading='cd /users/alexauritt/programming/rubyrailsdev/practice/reading/readingsite'
-
+alias ride='cd /users/alexauritt/programming/rubyrailsdev/skarven_ride'
+alias movie='cd /users/alexauritt/programming/rubyrailsdev/movie_vote'
 # flash projects source
 alias musicgame='cd /users/alexauritt/programming/flashdev/gamejob/musicgame'
 alias productgame='cd /users/alexauritt/programming/flashdev/gamejob/productgame'
-
+alias fracto='cd /users/alexauritt/programming/flashdev/Actionscript/Fracto'
+alias vocab='cd ~/programming/rubyrailsdev/vocabish'
 # resume
 alias resume='cd /users/alexauritt/Documents/Resumes/active/tech'
 
