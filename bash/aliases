@@ -5,6 +5,10 @@ alias gri="echo 'hello there'"
 # shell scripting
 alias shell='cd /users/alexauritt/programming/shellPrac'
 
+# tutoring shortcuts
+alias tut='cd ~/Documents/Tutoring'
+alias mat='cd ~/Desktop/Materials'
+
 # git shortcuts
 alias g='git status'
 alias gd='git diff'
