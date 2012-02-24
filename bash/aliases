@@ -5,12 +5,15 @@ alias gri="echo 'hello there'"
 # shell scripting
 alias shell='cd /users/alexauritt/programming/shellPrac'
 
+alias be='bundle exec'
+
 # tutoring shortcuts
 alias tut='cd ~/Documents/Tutoring'
 alias mat='cd ~/Desktop/Materials'
 
 # git shortcuts
 alias g='git status'
+alias gco='git checkout'
 alias gd='git diff'
 alias gdc='git diff --cached'
 alias gb="git branch"
@@ -19,7 +22,7 @@ alias ga="git add"
 alias gld="git log --oneline --decorate --graph"
 
 # rails shortcuts
-alias ss="script/server"
+alias rs="rails server"
 
 # ruby practice
 alias rp='cd ~/programming/RubyDev/RubyPractice'
@@ -28,7 +31,9 @@ alias rp='cd ~/programming/RubyDev/RubyPractice'
 alias gsaw='cd ~/work_projects/greensaw_rails'
 
 # rails projects, practice
-alias mhs='cd ~/programming/rubyrailsdev/mathhotspot'
+alias st='cd ~/programming/rubyrailsdev/saber-tertiary'
+alias ped='cd ~/programming/rubyrailsdev/pedalto'
+alias mp='cd ~/programming/rubyrailsdev/mathpick'
 alias rrp='cd ~programming/rubyrailsdev/practice'
 alias gp='cd /users/alexauritt/programming/rubyrailsdev/gitpractice'
 alias fart='cd /users/alexauritt/programming/rubyrailsdev/practice/fartcharter'
@@ -47,4 +52,9 @@ alias resume='cd /users/alexauritt/Documents/Resumes/active/tech'
 alias tmate='open -a Textmate'
 alias flash='open -a Adobe\ Flash\ CS4'
 
+# tailing rails
+alias tlt='tail -f log/test.log | grep here'
+alias tld='tail -f log/development.log | grep here'
 
+#heroku shortcuts
+alias hpc='RAILS_ENV=production bundle exec rake assets:precompile'

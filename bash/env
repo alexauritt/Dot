@@ -1,4 +1,4 @@
-export PATH=/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/mysql/bin:$PATH
+export PATH=/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/mysql/bin:/Library/PostgreSQL/9.0cd/bin:$PATH
 export MANPATH=/opt/local/share/man:/usr/local/share/man:$MANPATH
 export INFOPATH="/usr/local/share/info:$INFOPATH"
 export EDITOR="mate -w"
